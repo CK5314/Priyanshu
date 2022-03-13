@@ -1,0 +1,18 @@
+.nav1 ul {
+    display: inline;
+    display:flex;
+    align-items: center;
+    list-style-type: none;
+    height: 48px;
+    background-color:BLACK;
+    color: white;
+}
+.nav1 ul li{
+    display:inline-flex;
+    padding-left: 12px;
+}
+.nav1 ul li p{
+    font-size: 18px;
+    padding-right:700px;
+    
+}
